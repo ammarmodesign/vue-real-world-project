@@ -1,0 +1,3 @@
+- fetch all events on mount of EventListView file
+- create a EventDetailsView File and pass id as a prop
+- fetch the details based on the id
